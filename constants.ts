@@ -8,7 +8,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '44', url: 'https://hub.playai.network/?ref=dashboard', title: 'PlayAI Hub', category: LinkCategory.PASSIVE_NODES, tags: ['AI', 'Node'] },
   { id: '47', url: 'https://node.optimai.network/register?ref=0EB0B06E', title: 'OptimAI Node', category: LinkCategory.PASSIVE_NODES, tags: ['Node', 'AI'] },
   { id: '48', url: 'https://miningblocks.club/?Referral=35696', title: 'MiningBlocks Club', category: LinkCategory.PASSIVE_NODES, tags: ['Mining Sim'] },
-  { id: '104', url: 'https://robox.digital/i/2160702', title: 'Robox Digital', category: LinkCategory.PASSIVE_NODES, tags: ['Passive'] },
   { id: '41', url: 'https://surfe.be/ext/178882', title: 'Surfe.be', category: LinkCategory.PASSIVE_NODES, tags: ['Extension', 'Ads'] },
 
   // --- OG FAUCETS (Reliable Drip) ---
