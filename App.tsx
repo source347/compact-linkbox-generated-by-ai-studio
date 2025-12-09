@@ -153,7 +153,7 @@ const App: React.FC = () => {
         <Filter className="w-2.5 h-2.5 text-black dark:text-white shrink-0" />
         <button
           onClick={() => setSelectedTag(null)}
-          className={`px-1.5 py-px text-[9px] font-bold uppercase border transition-all shrink-0 ${
+          className={`px-4 py-px text-[15px] font-bold uppercase border transition-all shrink-0 ${
             selectedTag === null ? 'bg-black text-white border-black' : 'bg-white text-black border-black hover:bg-gray-50'
           }`}
         >
