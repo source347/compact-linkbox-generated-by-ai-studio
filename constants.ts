@@ -3,7 +3,7 @@ import { LinkCategory, LinkItem } from './types';
 export const ALL_LINKS: LinkItem[] = [
   // --- PASSIVE NODES (Bandwidth/Compute) ---
   { id: '39', url: 'https://pawns.app/?r=1112465', title: 'Pawns.app', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth'], recommended: true },
-  { id: '45', url: 'https://app.nodepay.ai/register?ref=5pxS8VIIZzNeDSF', title: 'Nodepay.ai', category: LinkCategory.PASSIVE_NODES, tags: [ 'Passive'], recommended: true },
+  { id: '45', url: 'https://app.nodepay.ai/register?ref=5pxS8VIIZzNeDSF', title: 'Nodepay.ai', category: LinkCategory.PASSIVE_NODES, tags: ['Passive'], recommended: true },
   { id: '49', url: 'https://app.getgrass.io/register?referralCode=XBPRl6U7sAvvzRX', title: 'Grass', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth'], recommended: true },
   { id: '44', url: 'https://hub.playai.network/?ref=dashboard', title: 'PlayAI Hub', category: LinkCategory.PASSIVE_NODES, tags: ['AI'] },
   { id: '47', url: 'https://node.optimai.network/register?ref=0EB0B06E', title: 'OptimAI Node', category: LinkCategory.PASSIVE_NODES, tags: ['AI'] },
@@ -20,7 +20,7 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '83', url: 'https://viefaucet.com?r=6380ee9189dc9d60cddeaf22', title: 'VieFaucet', category: LinkCategory.OG_FAUCETS, tags: ['Top Tier'] },
   
   // --- HOURLY LOOT (Pick Games) ---
-  { id: '84', url: 'https://dogepick.io/?ref=limana', title: 'DogePick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly']},
+  { id: '84', url: 'https://dogepick.io/?ref=limana', title: 'DogePick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '85', url: 'https://litepick.io/?ref=source', title: 'LitePick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '86', url: 'https://polpick.io/?ref=dashboard', title: 'PolPick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '87', url: 'https://solpick.io/?ref=dashboard', title: 'SolPick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
@@ -77,7 +77,7 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '30', url: 'https://luckywatch.pro/u/0oqit', title: 'LuckyWatch', category: LinkCategory.WEB3_GAMING, tags: ['Watch2earn'] },
 
   // --- QUEST BOARD ---
-  { id: '57', url: 'https://dscvr.one/invite/dashboard?ur=e99a9b5f-4449-4382-943b-71579aadfa85', title: 'DSCVR', category: LinkCategory.QUEST_BOARD, tags: ['Social], recommended: true },
+  { id: '57', url: 'https://dscvr.one/invite/dashboard?ur=e99a9b5f-4449-4382-943b-71579aadfa85', title: 'DSCVR', category: LinkCategory.QUEST_BOARD, tags: ['Social'], recommended: true },
   { id: '63', url: 'https://skynet.certik.com/quest/signup?referralId=4324d09a-bf19-437c-8635-645a52dbf136', title: 'Certik', category: LinkCategory.QUEST_BOARD, tags: ['Quests'] },
   { id: '51', url: 'https://app.fight.id/signup?code=FEFDB806', title: 'Fight.id', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
   { id: '52', url: 'https://yupp.ai/join/ruby-square-engine', title: 'Yupp.ai', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
