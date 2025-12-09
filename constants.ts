@@ -109,9 +109,7 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '101', url: 'https://start.me/p/lLBAx7/free-crypto', title: 'Start.me Crypto', category: LinkCategory.INFRASTRUCTURE, tags: ['Resource'] },
   { id: '102', url: 'https://cryptokinase.dropmark.com/1141913', title: 'CryptoKinase', category: LinkCategory.INFRASTRUCTURE, tags: ['Resource'] },
   { id: '103', url: 'https://beacons.ai/dashboard', title: 'Beacons.ai', category: LinkCategory.INFRASTRUCTURE, tags: ['Tool'] },
-
-  // --- HIGH RISK / MISC ---
-  { id: '106', url: 'https://signup.billions.network/?rc=IMENAAXD', title: 'Billions Network', category: LinkCategory.INFRASTRUCTURE, tags: ['High Yield'] },
+  { id: '106', url: 'https://signup.billions.network/?rc=IMENAAXD', title: 'Billions Network', category: LinkCategory.INFRASTRUCTURE, tags: ['Resource'] },
   { id: '107', url: 'https://t.me/EtherDROPS_bot?start=promo_OYJAP5', title: 'EtherDrops Bot', category: LinkCategory.INFRASTRUCTURE, tags: ['Bot', 'Tracking'] },
 ];
 
@@ -124,5 +122,4 @@ export const CATEGORY_STYLES: Record<LinkCategory, { color: string, icon: string
   [LinkCategory.WEB3_GAMING]: { color: 'bg-pink-500', icon: 'Gamepad2', desc: 'Play games, own assets, earn tokens.' },
   [LinkCategory.QUEST_BOARD]: { color: 'bg-indigo-500', icon: 'Swords', desc: 'Social tasks. Follow, RT, Join Discord.' },
   [LinkCategory.INFRASTRUCTURE]: { color: 'bg-cyan-600', icon: 'Wrench', desc: 'Wallets, exchanges, and essential tools.' },
-  [LinkCategory.RISK_LABS]: { color: 'bg-red-500', icon: 'Skull', desc: 'Experimental. Don\'t invest what you can\'t lose.' },
 };
