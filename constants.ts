@@ -3,7 +3,7 @@ import { LinkCategory, LinkItem } from './types';
 export const ALL_LINKS: LinkItem[] = [
   // --- PASSIVE NODES (Bandwidth/Compute) ---
   { id: '39', url: 'https://pawns.app/?r=1112465', title: 'Pawns.app', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth'], recommended: true },
-  { id: '45', url: 'https://app.nodepay.ai/register?ref=5pxS8VIIZzNeDSF', title: 'Nodepay.ai', category: LinkCategory.PASSIVE_NODES, tags: [ 'AI'], recommended: true },
+  { id: '45', url: 'https://app.nodepay.ai/register?ref=5pxS8VIIZzNeDSF', title: 'Nodepay.ai', category: LinkCategory.PASSIVE_NODES, tags: [ 'Passive'], recommended: true },
   { id: '49', url: 'https://app.getgrass.io/register?referralCode=XBPRl6U7sAvvzRX', title: 'Grass', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth'], recommended: true },
   { id: '44', url: 'https://hub.playai.network/?ref=dashboard', title: 'PlayAI Hub', category: LinkCategory.PASSIVE_NODES, tags: ['AI', 'Node'] },
   { id: '47', url: 'https://node.optimai.network/register?ref=0EB0B06E', title: 'OptimAI Node', category: LinkCategory.PASSIVE_NODES, tags: ['Node', 'AI'] },
