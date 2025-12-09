@@ -176,7 +176,7 @@ const App: React.FC = () => {
 
       {/* MAIN CONTENT - Masonry Layout for Ultimate Compactness */}
       <div className="flex-1 overflow-y-auto p-4 bg-gray-100 dark:bg-[#0b1120] scrollbar-thin">
-        <div className="columns-1 sm:columns-2 md:columns-3 lg:columns-4 xl:columns-6 2xl:columns-7 gap-1.5 pb-30 space-y-1.5">
+        <div className="columns-1 sm:columns-2 md:columns-3 lg:columns-4 xl:columns-4 2xl:columns-5 gap-1.5 pb-30 space-y-1.5">
           {Object.values(LinkCategory).map((category) => {
              const links = groupedLinks[category] || [];
              if (selectedTag && links.length === 0) return null;
