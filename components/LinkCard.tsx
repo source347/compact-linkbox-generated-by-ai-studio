@@ -46,7 +46,7 @@ const LinkCard: React.FC<LinkCardProps> = ({ category, links, completedIds, onTo
           </div>
           <button
             onClick={copyAllLinks}
-            className="p-0.5 hover:bg-black/20 rounded transition-colors"
+            className="p-1.5 hover:bg-black/20 rounded transition-colors"
             title="Copy All URLs"
           >
             {copied ? <Check className="w-2.5 h-2.5" /> : <Copy className="w-2.5 h-2.5" />}
@@ -93,9 +93,9 @@ const LinkCard: React.FC<LinkCardProps> = ({ category, links, completedIds, onTo
                   </div>
                   {/* Tags always visible to fill space */}
                   {link.tags && (
-                    <div className="flex gap-0.5 flex-wrap justify-end">
+                    <div className="flex gap-1.5 flex-wrap justify-end">
                       {link.tags.slice(0, 2).map(tag => (
-                        <span key={tag} className="text-[7px] uppercase font-bold text-gray-400 dark:text-gray-600 border border-gray-100 dark:border-gray-800 px-0.5 rounded leading-none">
+                        <span key={tag} className="text-[7px] uppercase font-bold text-gray-400 dark:text-gray-600 border border-gray-100 dark:border-gray-800 px-1.5 rounded leading-none">
                           {tag}
                         </span>
                       ))}
@@ -109,7 +109,7 @@ const LinkCard: React.FC<LinkCardProps> = ({ category, links, completedIds, onTo
       </div>
       
        {isAllDone && (
-         <div className="bg-emerald-500 text-white text-center py-0.5 text-[8px] font-black uppercase tracking-widest leading-none">
+         <div className="bg-emerald-500 text-white text-center py-1.5 text-[8px] font-black uppercase tracking-widest leading-none">
            COMPLETE
          </div>
        )}
