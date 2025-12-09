@@ -7,20 +7,20 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '49', url: 'https://app.getgrass.io/register?referralCode=XBPRl6U7sAvvzRX', title: 'GetGrass.io', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth', 'DePIN', 'Tier 1'], recommended: true },
   { id: '44', url: 'https://hub.playai.network/?ref=dashboard', title: 'PlayAI Hub', category: LinkCategory.PASSIVE_NODES, tags: ['AI', 'Node'] },
   { id: '47', url: 'https://node.optimai.network/register?ref=0EB0B06E', title: 'OptimAI Node', category: LinkCategory.PASSIVE_NODES, tags: ['Node', 'AI'] },
-  { id: '48', url: 'https://miningblocks.club/?Referral=35696', title: 'MiningBlocks Club', category: LinkCategory.PASSIVE_NODES, tags: ['Mining Sim'] },
+  { id: '48', url: 'https://miningblocks.club/?Referral=35696', title: 'MiningBlocks', category: LinkCategory.PASSIVE_NODES, tags: ['Mining Sim'] },
   { id: '41', url: 'https://surfe.be/ext/178882', title: 'Surfe.be', category: LinkCategory.PASSIVE_NODES, tags: ['Extension', 'Ads'] },
 
   // --- OG FAUCETS (Reliable Drip) ---
   { id: '75', url: 'https://freebitco.in/?r=17006348', title: 'FreeBitco.in', category: LinkCategory.OG_FAUCETS, tags: ['BTC', 'Legendary', 'Hourly'], recommended: true },
   { id: '68', url: 'https://cointiply.com/r/mOnqp', title: 'Cointiply', category: LinkCategory.OG_FAUCETS, tags: ['Survey', 'Faucet', 'Top Tier'], recommended: true },
-  { id: '71', url: 'https://faucetpay.io/?r=95880', title: 'FaucetPay', category: LinkCategory.OG_FAUCETS, tags: ['Wallet', 'Aggregator'], recommended: true },
+  { id: '71', url: 'https://faucetpay.io/?r=95880', title: 'FaucetPay', category: LinkCategory.OG_FAUCETS, tags: ['Wallet'], recommended: true },
   { id: '67', url: 'https://autofaucet.dutchycorp.space/?r=Autofaucets', title: 'DutchyCorp', category: LinkCategory.OG_FAUCETS, tags: ['Auto', 'Multi-Coin'] },
   { id: '72', url: 'https://firefaucet.win/ref/126786', title: 'FireFaucet', category: LinkCategory.OG_FAUCETS, tags: ['Auto', 'Leveling'] },
   { id: '70', url: 'https://earnbitmoon.club/?ref=265500', title: 'EarnBitMoon', category: LinkCategory.OG_FAUCETS, tags: ['Faucet'] },
   { id: '83', url: 'https://viefaucet.com?r=6380ee9189dc9d60cddeaf22', title: 'VieFaucet', category: LinkCategory.OG_FAUCETS, tags: ['Faucet'] },
   
   // --- HOURLY LOOT (Pick Games) ---
-  { id: '84', url: 'https://dogepick.io/?ref=limana', title: 'DogePick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly', 'Doge'], recommended: true },
+  { id: '84', url: 'https://dogepick.io/?ref=limana', title: 'DogePick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly', 'Doge']},
   { id: '85', url: 'https://litepick.io/?ref=source', title: 'LitePick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly', 'LTC'] },
   { id: '86', url: 'https://polpick.io/?ref=dashboard', title: 'PolPick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly', 'Matic'] },
   { id: '87', url: 'https://solpick.io/?ref=dashboard', title: 'SolPick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly', 'Solana'] },
@@ -50,7 +50,7 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '65', url: 'https://www.publish0x.com/?a=OpnelZ1bKB', title: 'Publish0x', category: LinkCategory.MICRO_WORK, tags: ['Reading', 'Crypto'] },
   
   // --- AIRDROP OPS (Testnet/Faucets) ---
-  { id: '17', url: 'https://parthenon.movementlabs.xyz/dashboard', title: 'Movement Labs', category: LinkCategory.AIRDROP_OPS, tags: ['L2', 'Testnet'], recommended: true },
+  { id: '17', url: 'https://parthenon.movementlabs.xyz/dashboard', title: 'Movement', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'], recommended: true },
   { id: '7', url: 'https://testnet.huddle01.com/leaderboard', title: 'Huddle01', category: LinkCategory.AIRDROP_OPS, tags: ['DePIN', 'Testnet'] },
   { id: '1', url: 'https://maxsee.io?k=E7967767', title: 'MaxSee', category: LinkCategory.AIRDROP_OPS, tags: ['Watch2Earn', 'New'] },
   { id: '2', url: 'https://portal.pi2.network/game', title: 'Pi2 Network', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
