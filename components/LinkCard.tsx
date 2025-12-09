@@ -80,7 +80,7 @@ const LinkCard: React.FC<LinkCardProps> = ({ category, links, completedIds, onTo
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => !isDone && onToggleComplete(link.id)}
-                className="flex-1 min-w-0 py-0.5 pr-1 block"
+                className="flex-1 min-w-0 py-1.5 pr-1 block"
               >
                 <div className="flex flex-wrap items-center justify-between gap-x-1 gap-y-0">
                   <div className="flex items-center gap-1 min-w-0 max-w-full">
