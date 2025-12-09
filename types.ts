@@ -6,8 +6,7 @@ export enum LinkCategory {
   AIRDROP_OPS = 'Airdrop Ops (Testnet & Spec)',
   WEB3_GAMING = 'GameFi Arcade',
   QUEST_BOARD = 'Social Quests & XP',
-  INFRASTRUCTURE = 'Toolbox (Wallets & Exch)',
-  RISK_LABS = 'High Risk / High Yield'
+  INFRASTRUCTURE = 'Toolbox (Wallets & Exch)'
 }
 
 export interface LinkItem {
