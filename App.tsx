@@ -182,7 +182,7 @@ const App: React.FC = () => {
              if (selectedTag && links.length === 0) return null;
              
              return (
-              <div key={category} className="break-inside-avoid mb-1.5">
+              <div key={category} className="break-inside-avoid mb-4">
                 <LinkCard 
                   category={category} 
                   links={links} 
