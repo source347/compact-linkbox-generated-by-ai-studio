@@ -95,7 +95,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '98', url: 'https://eth.blockscout.com/?ref=6RZXK3', title: 'Blockscout', category: LinkCategory.INFRASTRUCTURE, tags: ['Explorer', 'Tools'] },
   { id: '96', url: 'https://www.rainbow.me/points?ref=66K7GM', title: 'Rainbow Wallet', category: LinkCategory.INFRASTRUCTURE, tags: ['Wallet', 'Points'] },
   { id: '97', url: 'https://newshare.bwb.global/en/referralLanding?inviteCode=ZnYvar&type=card', title: 'Bitget Wallet', category: LinkCategory.INFRASTRUCTURE, tags: ['Wallet', 'BWB'] },
-  { id: '93', url: 'https://payeer.com/?session=11397475', title: 'Payeer', category: LinkCategory.INFRASTRUCTURE, tags: ['Fiat Ramp'] },
   { id: '95', url: 'https://sosovalue.com/join/0DCN0PVQ', title: 'SoSoValue', category: LinkCategory.INFRASTRUCTURE, tags: ['Analytics'] },
   { id: '99', url: 'https://dashboard.3dos.io/register?ref_code=6d8572', title: '3Dos', category: LinkCategory.INFRASTRUCTURE, tags: ['Tool'] },
   { id: '106', url: 'https://signup.billions.network/?rc=IMENAAXD', title: 'Billions Network', category: LinkCategory.INFRASTRUCTURE, tags: ['Resource'] },
