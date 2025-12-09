@@ -111,7 +111,7 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '103', url: 'https://beacons.ai/dashboard', title: 'Beacons.ai', category: LinkCategory.INFRASTRUCTURE, tags: ['Tool'] },
 
   // --- HIGH RISK / MISC ---
-  { id: '106', url: 'https://signup.billions.network/?rc=IMENAAXD', title: 'Billions Network', category: LinkCategory.RISK_LABS, tags: ['High Yield'] },
+  { id: '106', url: 'https://signup.billions.network/?rc=IMENAAXD', title: 'Billions Network', category: LinkCategory.INFRASTRUCTURE, tags: ['High Yield'] },
   { id: '107', url: 'https://t.me/EtherDROPS_bot?start=promo_OYJAP5', title: 'EtherDrops Bot', category: LinkCategory.INFRASTRUCTURE, tags: ['Bot', 'Tracking'] },
 ];
 
