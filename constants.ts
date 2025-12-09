@@ -2,9 +2,9 @@ import { LinkCategory, LinkItem } from './types';
 
 export const ALL_LINKS: LinkItem[] = [
   // --- PASSIVE NODES (Bandwidth/Compute) ---
-  { id: '39', url: 'https://pawns.app/?r=1112465', title: 'Pawns.app', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth', 'Passive', 'PC/Mobile'], recommended: true },
+  { id: '39', url: 'https://pawns.app/?r=1112465', title: 'Pawns.app', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth'], recommended: true },
   { id: '45', url: 'https://app.nodepay.ai/register?ref=5pxS8VIIZzNeDSF', title: 'Nodepay.ai', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth', 'AI', 'Solana'], recommended: true },
-  { id: '49', url: 'https://app.getgrass.io/register?referralCode=XBPRl6U7sAvvzRX', title: 'GetGrass.io', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth', 'DePIN', 'Tier 1'], recommended: true },
+  { id: '49', url: 'https://app.getgrass.io/register?referralCode=XBPRl6U7sAvvzRX', title: 'Grass', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth'], recommended: true },
   { id: '44', url: 'https://hub.playai.network/?ref=dashboard', title: 'PlayAI Hub', category: LinkCategory.PASSIVE_NODES, tags: ['AI', 'Node'] },
   { id: '47', url: 'https://node.optimai.network/register?ref=0EB0B06E', title: 'OptimAI Node', category: LinkCategory.PASSIVE_NODES, tags: ['Node', 'AI'] },
   { id: '48', url: 'https://miningblocks.club/?Referral=35696', title: 'MiningBlocks', category: LinkCategory.PASSIVE_NODES, tags: ['Mining Sim'] },
@@ -64,7 +64,7 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '16', url: 'https://proving-grounds.brevis.network/VQcpfa', title: 'Brevis ZK', category: LinkCategory.AIRDROP_OPS, tags: ['ZK', 'Proving'] },
 
   // --- WEB3 GAMING ---
-  { id: '22', url: 'https://play.immutable.com/referral/share/8gkaZR?utm_source=referral', title: 'Immutable X', category: LinkCategory.WEB3_GAMING, tags: ['Ecosystem', 'Top Tier'], recommended: true },
+  { id: '22', url: 'https://play.immutable.com/referral/share/8gkaZR?utm_source=referral', title: 'Immutable', category: LinkCategory.WEB3_GAMING, tags: ['Top Tier'], recommended: true },
   { id: '27', url: 'https://rollercoin.com/?r=kcq1472k', title: 'RollerCoin', category: LinkCategory.WEB3_GAMING, tags: ['Sim', 'Classic'] },
   { id: '26', url: 'https://t.me/gamee/start?startapp=eyJyZWYiOjMzMzYwMDY0MH0', title: 'Gamee (TG)', category: LinkCategory.WEB3_GAMING, tags: ['Telegram', 'Mobile'] },
   { id: '18', url: 'https://s.trex.xyz/lltWFq', title: 'Trex.xyz', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
@@ -78,7 +78,7 @@ export const ALL_LINKS: LinkItem[] = [
 
   // --- QUEST BOARD ---
   { id: '57', url: 'https://dscvr.one/invite/dashboard?ur=e99a9b5f-4449-4382-943b-71579aadfa85', title: 'DSCVR', category: LinkCategory.QUEST_BOARD, tags: ['SocialFi', 'Solana'], recommended: true },
-  { id: '63', url: 'https://skynet.certik.com/quest/signup?referralId=4324d09a-bf19-437c-8635-645a52dbf136', title: 'Certik Skynet', category: LinkCategory.QUEST_BOARD, tags: ['Security', 'Quests'] },
+  { id: '63', url: 'https://skynet.certik.com/quest/signup?referralId=4324d09a-bf19-437c-8635-645a52dbf136', title: 'Certik', category: LinkCategory.QUEST_BOARD, tags: ['Quests'] },
   { id: '51', url: 'https://app.fight.id/signup?code=FEFDB806', title: 'Fight.id', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
   { id: '52', url: 'https://yupp.ai/join/ruby-square-engine', title: 'Yupp.ai', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '53', url: 'https://surflayer.xyz?ref=8d285aa34e', title: 'SurfLayer', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
@@ -91,9 +91,9 @@ export const ALL_LINKS: LinkItem[] = [
 
   // --- INFRASTRUCTURE ---
   { id: '91', url: 'https://accounts.binance.com/register?ref=49685937', title: 'Binance', category: LinkCategory.INFRASTRUCTURE, tags: ['Exchange', 'Tier 1'], recommended: true },
-  { id: '92', url: 'https://www.mexc.com/auth/signup?inviteCode=2pLgC', title: 'MEXC Global', category: LinkCategory.INFRASTRUCTURE, tags: ['Exchange', 'Low Cap Gems'] },
+  { id: '92', url: 'https://www.mexc.com/auth/signup?inviteCode=2pLgC', title: 'MEXC', category: LinkCategory.INFRASTRUCTURE, tags: ['Exchange'] },
   { id: '98', url: 'https://eth.blockscout.com/?ref=6RZXK3', title: 'Blockscout', category: LinkCategory.INFRASTRUCTURE, tags: ['Explorer', 'Tools'] },
-  { id: '96', url: 'https://www.rainbow.me/points?ref=66K7GM', title: 'Rainbow Wallet', category: LinkCategory.INFRASTRUCTURE, tags: ['Wallet', 'Points'] },
+  { id: '96', url: 'https://www.rainbow.me/points?ref=66K7GM', title: 'Rainbow', category: LinkCategory.INFRASTRUCTURE, tags: ['Wallet'] },
   { id: '97', url: 'https://newshare.bwb.global/en/referralLanding?inviteCode=ZnYvar&type=card', title: 'Bitget Wallet', category: LinkCategory.INFRASTRUCTURE, tags: ['Wallet', 'BWB'] },
   { id: '95', url: 'https://sosovalue.com/join/0DCN0PVQ', title: 'SoSoValue', category: LinkCategory.INFRASTRUCTURE, tags: ['Analytics'] },
   { id: '99', url: 'https://dashboard.3dos.io/register?ref_code=6d8572', title: '3Dos', category: LinkCategory.INFRASTRUCTURE, tags: ['Tool'] },
