@@ -70,7 +70,7 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '18', url: 'https://s.trex.xyz/lltWFq', title: 'Trex.xyz', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
   { id: '20', url: 'https://quests.yom.net/loyalty?referral_code=I0SWSZ6V', title: 'YOM Quests', category: LinkCategory.WEB3_GAMING, tags: ['Testnet'] },
   { id: '21', url: 'https://nomstead.com/?ref=dhqgys6b', title: 'Nomstead', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
-  { id: '23', url: 'https://prometheansaga.com?r=u9Jva2XK', title: 'Promethean Saga', category: LinkCategory.WEB3_GAMING, tags: ['Social'] },
+  { id: '23', url: 'https://prometheansaga.com?r=u9Jva2XK', title: 'Promethean', category: LinkCategory.WEB3_GAMING, tags: ['Social'] },
   { id: '24', url: 'https://app.luckyx.world/?p=Yie918', title: 'LuckyX World', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
   { id: '28', url: 'https://simplebits.io/ref/0rd4li1cSLTL', title: 'SimpleBits', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
   { id: '29', url: 'https://limercoin.com/?ref=4i6ljids', title: 'LimerCoin', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
