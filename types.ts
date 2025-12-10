@@ -1,12 +1,12 @@
 export enum LinkCategory {
   PASSIVE_NODES = 'Passive Income (Set & Forget)',
+    INFRASTRUCTURE = 'Toolbox (Wallets & Exch)',
   HOURLY_LOOT = 'Hourly Loot (Pick Games)',
   OG_FAUCETS = 'The Faucet OGs (Proven)',
   MICRO_WORK = 'Micro-Work (PTC & Captcha)',
   AIRDROP_OPS = 'Airdrop Ops (Testnet & Spec)',
   WEB3_GAMING = 'GameFi Arcade',
-  QUEST_BOARD = 'Social Quests & XP',
-  INFRASTRUCTURE = 'Toolbox (Wallets & Exch)'
+  QUEST_BOARD = 'Social Quests & XP'
 }
 
 export interface LinkItem {
