@@ -5,10 +5,8 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '39', url: 'https://pawns.app/?r=1112465', title: 'Pawns.app', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth'], recommended: true },
   { id: '45', url: 'https://app.nodepay.ai/register?ref=5pxS8VIIZzNeDSF', title: 'Nodepay.ai', category: LinkCategory.PASSIVE_NODES, tags: ['Passive'], recommended: true },
   { id: '49', url: 'https://app.getgrass.io/register?referralCode=XBPRl6U7sAvvzRX', title: 'Grass', category: LinkCategory.PASSIVE_NODES, tags: ['Bandwidth'], recommended: true },
-  { id: '44', url: 'https://hub.playai.network/?ref=dashboard', title: 'PlayAI Hub', category: LinkCategory.PASSIVE_NODES, tags: ['AI'] },
   { id: '47', url: 'https://node.optimai.network/register?ref=0EB0B06E', title: 'OptimAI Node', category: LinkCategory.PASSIVE_NODES, tags: ['AI'] },
   { id: '48', url: 'https://miningblocks.club/?Referral=35696', title: 'MiningBlocks', category: LinkCategory.PASSIVE_NODES, tags: ['Game'] },
-  { id: '41', url: 'https://surfe.be/ext/178882', title: 'Surfe.be', category: LinkCategory.PASSIVE_NODES, tags: ['Passive'] },
 
   // --- OG FAUCETS (Reliable Drip) ---
   { id: '75', url: 'https://freebitco.in/?r=17006348', title: 'FreeBitcoin', category: LinkCategory.OG_FAUCETS, tags: ['Hourly'], recommended: true },
@@ -22,7 +20,6 @@ export const ALL_LINKS: LinkItem[] = [
   // --- HOURLY LOOT (Pick Games) ---
   { id: '84', url: 'https://dogepick.io/?ref=limana', title: 'DogePick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '85', url: 'https://litepick.io/?ref=source', title: 'LitePick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
-  { id: '86', url: 'https://polpick.io/?ref=dashboard', title: 'PolPick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '87', url: 'https://solpick.io/?ref=dashboard', title: 'SolPick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '88', url: 'https://suipick.io/?ref=dashboard', title: 'SuiPick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '89', url: 'https://tonpick.game/?ref=dashboard', title: 'TonPick', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
@@ -30,30 +27,24 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '73', url: 'https://freebch.in?ref=GYbcNKDvc8', title: 'FreeBCH', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '74', url: 'https://freebnb.in?ref=t3guZH6504', title: 'FreeBNB', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '76', url: 'https://freearb.in?ref=DT-wOppZxs', title: 'FreeArb', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
-  { id: '77', url: 'https://freeshib.in?ref=Q4gBET4aub', title: 'FreeShib', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '78', url: 'https://freesui.in?ref=2OBNF6surV', title: 'FreeSui', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
   { id: '79', url: 'https://freetoncoin.in?ref=4oDtavonot', title: 'FreeTon', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
-  { id: '80', url: 'https://freetron.in?ref=D96wTKmOPD', title: 'FreeTron', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
-  { id: '81', url: 'https://freetrump.in?ref=Qzx6sqZz1E', title: 'FreeTrump', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
-  { id: '82', url: 'https://freexrp.in?ref=sKqECBxDCJ', title: 'FreeXRP', category: LinkCategory.HOURLY_LOOT, tags: ['Hourly'] },
 
   // --- MICRO WORK (PTC/Captcha) ---
-  { id: '32', url: 'https://2captcha.com/?from=9690712', title: '2Captcha', category: LinkCategory.MICRO_WORK, tags: ['Work'], recommended: true },
   { id: '36', url: 'https://www.coinpayu.com/?r=dashboard', title: 'CoinPayU', category: LinkCategory.MICRO_WORK, tags: ['Top Tier'], recommended: true },
   { id: '34', url: 'https://r.adbtc.top/1169353', title: 'AdBTC', category: LinkCategory.MICRO_WORK, tags: ['Ads', 'Sats'] },
   { id: '35', url: 'https://btcadspace.com/ref/source', title: 'BTC AdSpace', category: LinkCategory.MICRO_WORK, tags: ['Ads'] },
-  { id: '42', url: 'https://timebucks.com/?refID=219093340', title: 'TimeBucks', category: LinkCategory.MICRO_WORK, tags: ['Survey'] },
   { id: '37', url: 'https://everve.net/ref/678797/', title: 'Everve', category: LinkCategory.MICRO_WORK, tags: ['Social'] },
   { id: '38', url: 'https://freeward.net/ref/7pex8', title: 'Freeward', category: LinkCategory.MICRO_WORK, tags: ['Offers'] },
   { id: '40', url: 'https://rewardvid.com?ref=ETqLenDf', title: 'RewardVid', category: LinkCategory.MICRO_WORK, tags: ['Video'] },
   { id: '43', url: 'https://earnviv.com/?r=36182', title: 'EarnViv', category: LinkCategory.MICRO_WORK, tags: ['Offers'] },
   { id: '65', url: 'https://www.publish0x.com/?a=OpnelZ1bKB', title: 'Publish0x', category: LinkCategory.MICRO_WORK, tags: ['Passive'] },
+  { id: '30', url: 'https://luckywatch.pro/u/0oqit', title: 'LuckyWatch', category: LinkCategory.MICRO_WORK, tags: ['Watch2earn'] },
   
   // --- AIRDROP OPS (Testnet/Faucets) ---
   { id: '17', url: 'https://parthenon.movementlabs.xyz/dashboard', title: 'Movement', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'], recommended: true },
   { id: '7', url: 'https://testnet.huddle01.com/leaderboard', title: 'Huddle01', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
   { id: '1', url: 'https://maxsee.io?k=E7967767', title: 'MaxSee', category: LinkCategory.AIRDROP_OPS, tags: ['New'] },
-  { id: '2', url: 'https://portal.pi2.network/game', title: 'Pi2 Network', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
   { id: '3', url: 'https://neuraverse.neuraprotocol.io/?section=leaderboard', title: 'Neuraverse', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
   { id: '4', url: 'https://app.piggycell.io/?ref=5EOPZ8', title: 'PiggyCell', category: LinkCategory.AIRDROP_OPS, tags: ['App'] },
   { id: '5', url: 'https://testnet.lifeai.io/ref?code=WFNY7Z3', title: 'LifeAI Testnet', category: LinkCategory.AIRDROP_OPS, tags: ['AI'] },
@@ -74,7 +65,7 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '24', url: 'https://app.luckyx.world/?p=Yie918', title: 'LuckyX World', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
   { id: '28', url: 'https://simplebits.io/ref/0rd4li1cSLTL', title: 'SimpleBits', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
   { id: '29', url: 'https://limercoin.com/?ref=4i6ljids', title: 'LimerCoin', category: LinkCategory.WEB3_GAMING, tags: ['Game'] },
-  { id: '30', url: 'https://luckywatch.pro/u/0oqit', title: 'LuckyWatch', category: LinkCategory.WEB3_GAMING, tags: ['Watch2earn'] },
+ 
 
   // --- QUEST BOARD ---
   { id: '57', url: 'https://dscvr.one/invite/dashboard?ur=e99a9b5f-4449-4382-943b-71579aadfa85', title: 'DSCVR', category: LinkCategory.QUEST_BOARD, tags: ['Social'], recommended: true },
