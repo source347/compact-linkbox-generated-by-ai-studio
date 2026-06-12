@@ -61,7 +61,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '63', url: 'https://skynet.certik.com/quest/signup?referralId=4324d09a-bf19-437c-8635-645a52dbf136', title: 'Certik', category: LinkCategory.QUEST_BOARD, tags: ['Quests'] },
   { id: '51', url: 'https://app.fight.id/signup?code=FEFDB806', title: 'Fight.id', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
   { id: '58', url: 'https://app.codatta.io/referral/a4591r', title: 'Codatta', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
-  { id: '59', url: 'https://mission.superintent.ai/?referralCode=eIJAOWtvmB', title: 'SuperIntent', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '61', url: 'https://dashboard.aro.network/signup?referral=GJIXM0', title: 'Aro Network', category: LinkCategory.QUEST_BOARD, tags: ['Testnet'] },
 
   // --- INFRASTRUCTURE ---
