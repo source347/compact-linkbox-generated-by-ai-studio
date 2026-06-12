@@ -195,7 +195,7 @@ const App: React.FC = () => {
         </div>
       </div>
       
-      <EarningsToy />
+     
     </div>
   );
 };
