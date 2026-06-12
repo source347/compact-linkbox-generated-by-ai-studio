@@ -36,7 +36,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '35', url: 'https://btcadspace.com/ref/source', title: 'BTC AdSpace', category: LinkCategory.MICRO_WORK, tags: ['Ads'] },
   { id: '37', url: 'https://taskpul.se/ref/3addb650-ef3f-4360-ba81-e4321abba2a8/', title: 'TaskPulse', category: LinkCategory.MICRO_WORK, tags: ['Social'] },
   { id: '65', url: 'https://www.publish0x.com/?a=OpnelZ1bKB', title: 'Publish0x', category: LinkCategory.MICRO_WORK, tags: ['Passive'] },
-  { id: '30', url: 'https://luckywatch.pro/u/0oqit', title: 'LuckyWatch', category: LinkCategory.MICRO_WORK, tags: ['Watch2earn'] },
   
   // --- AIRDROP OPS (Testnet/Faucets) ---
   { id: '3', url: 'https://neuraverse.neuraprotocol.io/?section=leaderboard', title: 'Neuraverse', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
