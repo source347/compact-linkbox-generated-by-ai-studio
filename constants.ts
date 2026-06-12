@@ -62,7 +62,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '51', url: 'https://app.fight.id/signup?code=FEFDB806', title: 'Fight.id', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
   { id: '52', url: 'https://yupp.ai/join/ruby-square-engine', title: 'Yupp.ai', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '53', url: 'https://surflayer.xyz?ref=8d285aa34e', title: 'SurfLayer', category: LinkCategory.QUEST_BOARD, tags: ['Testnet'] },
-  { id: '55', url: 'https://my.aidapp.com/?refCode=XE9RnUdhxDi1XNw', title: 'AiDapp', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '58', url: 'https://app.codatta.io/referral/a4591r', title: 'Codatta', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '59', url: 'https://mission.superintent.ai/?referralCode=eIJAOWtvmB', title: 'SuperIntent', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '60', url: 'https://app.gata.xyz?invite_code=8epdx7rg', title: 'Gata.xyz', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
