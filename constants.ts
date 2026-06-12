@@ -60,8 +60,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '57', url: 'https://dscvr.one/invite/dashboard?ur=e99a9b5f-4449-4382-943b-71579aadfa85', title: 'DSCVR', category: LinkCategory.QUEST_BOARD, tags: ['Social'], recommended: true },
   { id: '63', url: 'https://skynet.certik.com/quest/signup?referralId=4324d09a-bf19-437c-8635-645a52dbf136', title: 'Certik', category: LinkCategory.QUEST_BOARD, tags: ['Quests'] },
   { id: '51', url: 'https://app.fight.id/signup?code=FEFDB806', title: 'Fight.id', category: LinkCategory.QUEST_BOARD, tags: ['Social'] },
-  { id: '52', url: 'https://yupp.ai/join/ruby-square-engine', title: 'Yupp.ai', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
-  { id: '53', url: 'https://surflayer.xyz?ref=8d285aa34e', title: 'SurfLayer', category: LinkCategory.QUEST_BOARD, tags: ['Testnet'] },
   { id: '58', url: 'https://app.codatta.io/referral/a4591r', title: 'Codatta', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '59', url: 'https://mission.superintent.ai/?referralCode=eIJAOWtvmB', title: 'SuperIntent', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '61', url: 'https://dashboard.aro.network/signup?referral=GJIXM0', title: 'Aro Network', category: LinkCategory.QUEST_BOARD, tags: ['Testnet'] },
