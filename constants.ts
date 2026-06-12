@@ -34,25 +34,15 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '36', url: 'https://www.coinpayu.com/?r=dashboard', title: 'CoinPayU', category: LinkCategory.MICRO_WORK, tags: ['Top Tier'], recommended: true },
   { id: '34', url: 'https://r.adbtc.top/1169353', title: 'AdBTC', category: LinkCategory.MICRO_WORK, tags: ['Ads', 'Sats'] },
   { id: '35', url: 'https://btcadspace.com/ref/source', title: 'BTC AdSpace', category: LinkCategory.MICRO_WORK, tags: ['Ads'] },
-  { id: '37', url: 'https://everve.net/ref/678797/', title: 'Everve', category: LinkCategory.MICRO_WORK, tags: ['Social'] },
-  { id: '38', url: 'https://freeward.net/ref/7pex8', title: 'Freeward', category: LinkCategory.MICRO_WORK, tags: ['Offers'] },
-  { id: '40', url: 'https://rewardvid.com?ref=ETqLenDf', title: 'RewardVid', category: LinkCategory.MICRO_WORK, tags: ['Video'] },
-  { id: '43', url: 'https://earnviv.com/?r=36182', title: 'EarnViv', category: LinkCategory.MICRO_WORK, tags: ['Offers'] },
+  { id: '37', url: 'https://taskpul.se/ref/3addb650-ef3f-4360-ba81-e4321abba2a8/', title: 'TaskPulse', category: LinkCategory.MICRO_WORK, tags: ['Social'] },
   { id: '65', url: 'https://www.publish0x.com/?a=OpnelZ1bKB', title: 'Publish0x', category: LinkCategory.MICRO_WORK, tags: ['Passive'] },
   { id: '30', url: 'https://luckywatch.pro/u/0oqit', title: 'LuckyWatch', category: LinkCategory.MICRO_WORK, tags: ['Watch2earn'] },
   
   // --- AIRDROP OPS (Testnet/Faucets) ---
-  { id: '17', url: 'https://parthenon.movementlabs.xyz/dashboard', title: 'Movement', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'], recommended: true },
-  { id: '7', url: 'https://testnet.huddle01.com/leaderboard', title: 'Huddle01', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
-  { id: '1', url: 'https://maxsee.io?k=E7967767', title: 'MaxSee', category: LinkCategory.AIRDROP_OPS, tags: ['New'] },
   { id: '3', url: 'https://neuraverse.neuraprotocol.io/?section=leaderboard', title: 'Neuraverse', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
   { id: '4', url: 'https://app.piggycell.io/?ref=5EOPZ8', title: 'PiggyCell', category: LinkCategory.AIRDROP_OPS, tags: ['App'] },
   { id: '5', url: 'https://testnet.lifeai.io/ref?code=WFNY7Z3', title: 'LifeAI Testnet', category: LinkCategory.AIRDROP_OPS, tags: ['AI'] },
   { id: '6', url: 'https://nebulai.network/final-test?invite_by=D1F1kn', title: 'Nebulai', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
-  { id: '10', url: 'https://operator.olivianetwork.com?ref=#OPJ3FIK2', title: 'Olivia Network', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
-  { id: '13', url: 'https://testnet.pharosnetwork.xyz/experience?inviteCode=RfgFyrjEUeC728lB', title: 'Pharos Network', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
-  { id: '14', url: 'https://app.namso.network/dashboard/?ref=A339FDFAE39E', title: 'Namso Network', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
-  { id: '16', url: 'https://proving-grounds.brevis.network/VQcpfa', title: 'Brevis ZK', category: LinkCategory.AIRDROP_OPS, tags: ['Testnet'] },
 
   // --- WEB3 GAMING ---
   { id: '22', url: 'https://play.immutable.com/referral/share/8gkaZR?utm_source=referral', title: 'Immutable', category: LinkCategory.WEB3_GAMING, tags: ['Game'], recommended: true },
@@ -78,7 +68,6 @@ export const ALL_LINKS: LinkItem[] = [
   { id: '59', url: 'https://mission.superintent.ai/?referralCode=eIJAOWtvmB', title: 'SuperIntent', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '60', url: 'https://app.gata.xyz?invite_code=8epdx7rg', title: 'Gata.xyz', category: LinkCategory.QUEST_BOARD, tags: ['AI'] },
   { id: '61', url: 'https://dashboard.aro.network/signup?referral=GJIXM0', title: 'Aro Network', category: LinkCategory.QUEST_BOARD, tags: ['Testnet'] },
-  { id: '62', url: 'https://blockstreet.money/dashboard?invite_code=mvEz8G', title: 'BlockStreet', category: LinkCategory.QUEST_BOARD, tags: ['Testnet'] },
 
   // --- INFRASTRUCTURE ---
   { id: '91', url: 'https://accounts.binance.com/register?ref=49685937', title: 'Binance', category: LinkCategory.INFRASTRUCTURE, tags: ['Exchange'], recommended: true },
